@@ -1,0 +1,47 @@
+index.html
+style.css
+script.js
+README.txt
+assets/
+   portfolio-01.png
+   portfolio-02.jpeg
+   portfolio-03.jpeg
+   ...
+   portfolio-10.png
+# Bismillah Enterprise — Free Website
+
+This is a static, mobile-friendly website. It needs no paid hosting or database.
+
+## Files
+- `index.html` — website
+- `style.css` — design system
+- `script.js` — mobile menu + portfolio lightbox
+- `assets/` — your supplied portfolio images
+
+## Publish for free
+
+### Option 1: GitHub Pages
+1. Create a free GitHub account.
+2. Create a new **public** repository, e.g. `bismillah-enterprise`.
+3. Upload `index.html`, `style.css`, `script.js`, and the `assets` folder.
+4. Open **Settings → Pages**.
+5. Under Build and deployment choose **Deploy from a branch**.
+6. Select `main` and `/ (root)`, then Save.
+7. GitHub will give you a free `github.io` website address.
+
+### Option 2: Netlify
+1. Create a free Netlify account.
+2. Use the option to add a new site from your files.
+3. Upload this whole folder (or the ZIP).
+4. Netlify gives you a free `netlify.app` address.
+
+## Contact
+The website currently uses:
+- Phone: +880 1401 859 775
+- Email: syntemin@gmail.com
+- WhatsApp: +880 1401 859 775
+
+If the email address is different, replace `syntemin@gmail.com` in `index.html`.
+
+## Brand direction
+Black / warm gold / white, with editorial serif + condensed display typography, based on the supplied Bismillah Enterprise brand identity presentation.
